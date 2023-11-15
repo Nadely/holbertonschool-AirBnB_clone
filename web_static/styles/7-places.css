@@ -1,8 +1,8 @@
 .places {
+	width: 1000px;
 	display: flex;
 	flex-wrap: wrap;
 	justify-content: center;
-
 }
 
 .places h1 {
@@ -13,8 +13,8 @@
 }
 
 .places article {
-	width: 390;
-	padding: 20x;
+	width: 390px;
+	padding: 20px;
 	margin: 20px;
 	border: 1px #FF5A5F solid;
 	border-radius: 4px;
@@ -23,8 +23,8 @@
 .places h2 {
 	padding-top: 0px;
 	padding-bottom: 15px;
-	padding-left: 100px;
-	padding-right: 100px;
+	padding-left: 75px;
+	padding-right: 75px;
 	margin-left: 40px;
 	margin-right: 40px;
 	font-size: 30px;
